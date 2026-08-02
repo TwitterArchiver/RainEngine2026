@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077352385958342656",
+    "conversation_id": "2080299391211159773",
+    "created_at": "2026-07-23T14:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T15:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080299391211159773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1676634704878129152",
+          "start": 3,
+          "username": "AotraWong"
+        },
+        {
+          "end": 25,
+          "id": "1336576654022340608",
+          "start": 15,
+          "username": "yu_kirins"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080299391211159773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080297361855709340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AotraWong: @yu_kirins 地铁日票，最重要的是坐回本（\n今天到访了上海最被大家所熟知的三间医院，雾雨咖啡厅也当然是有点困了顺便提神🤓\n旁边还有两只mtf陪着，大家一起开心City Walk，所以并不累哦🥰\n还有早上我只身一人去找赵博是因为雨晴（@Rai…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077352385958342656",
+        "conversation_id": "2080299391211159773",
+        "created_at": "2026-07-23T14:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080299391211159773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1676634704878129152",
+              "start": 3,
+              "username": "AotraWong"
+            },
+            {
+              "end": 25,
+              "id": "1336576654022340608",
+              "start": 15,
+              "username": "yu_kirins"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080299391211159773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080297361855709340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AotraWong: @yu_kirins 地铁日票，最重要的是坐回本（\n今天到访了上海最被大家所熟知的三间医院，雾雨咖啡厅也当然是有点困了顺便提神🤓\n旁边还有两只mtf陪着，大家一起开心City Walk，所以并不累哦🥰\n还有早上我只身一人去找赵博是因为雨晴（@Rai…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676634704878129152",
+        "conversation_id": "2080258629241106638",
+        "created_at": "2026-07-23T14:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080297361855709340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1336576654022340608",
+              "start": 0,
+              "username": "yu_kirins"
+            },
+            {
+              "end": 135,
+              "id": "2077352385958342656",
+              "start": 120,
+              "username": "RainEngine2026"
+            },
+            {
+              "end": 161,
+              "id": "1393373599579267073",
+              "start": 145,
+              "username": "Ilikesleepinghh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080297361855709340",
+        "in_reply_to_user_id": "1336576654022340608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080295159733092525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_kirins 地铁日票，最重要的是坐回本（\n今天到访了上海最被大家所熟知的三间医院，雾雨咖啡厅也当然是有点困了顺便提神🤓\n旁边还有两只mtf陪着，大家一起开心City Walk，所以并不累哦🥰\n还有早上我只身一人去找赵博是因为雨晴（@RainEngine2026）起不动床，让婉星（@Ilikesleepinghh）陪在她身边~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "",
+        "id": "2077352385958342656",
+        "name": "雨晴今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077357822191575040/Ex8xVx_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 42,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T16:50:50.000Z",
+        "description": "也许是个大姐姐 | 2008 May | 🏳️‍⚧️ | 过期JK |\n最喜欢的妹妹：@RainEngine2026 | 物化政但准医学生 |\n校心理社前部长 | IT/交通/医学（尤其是精神医学） 爱好者 | \n希望我能帮到你，哪怕只是一点点。谢谢你的Fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "RainEngine2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lcna.cn",
+                "end": 23,
+                "expanded_url": "https://blog.lcna.cn",
+                "start": 0,
+                "url": "https://t.co/9a4AgdadOU"
+              }
+            ]
+          }
+        },
+        "id": "1676634704878129152",
+        "location": "東莞 Dongguan",
+        "name": "Aotra Wong 芷姗",
+        "pinned_tweet_id": "2058188566497493045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069980335128113152/BDqo9jSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 1148,
+          "like_count": 25903,
+          "listed_count": 5,
+          "media_count": 519,
+          "tweet_count": 2108
+        },
+        "url": "https://t.co/9a4AgdadOU",
+        "username": "AotraWong",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-09T07:41:57.000Z",
+        "description": "MTF|VRChat|ADHD|HRT:2025.9.16|DOB:2001.4.29",
+        "id": "1336576654022340608",
+        "location": "Shanghai",
+        "name": "yu_s",
+        "pinned_tweet_id": "2040955385121816857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007993844017905664/oXsuXX6A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 112,
+          "like_count": 1446,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 411
+        },
+        "url": "",
+        "username": "yu_kirins",
+        "verified": false
+      }
+    ]
+  }
+}

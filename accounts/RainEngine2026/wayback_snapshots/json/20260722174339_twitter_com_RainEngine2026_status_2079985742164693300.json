@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077352385958342656",
+    "conversation_id": "2079985742164693300",
+    "created_at": "2026-07-22T17:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T18:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079985742164693300"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079985742164693300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想，我要改用一种社交方式了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077352385958342656",
+        "conversation_id": "2079985742164693300",
+        "created_at": "2026-07-22T17:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079985742164693300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079985742164693300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想，我要改用一种社交方式了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "",
+        "id": "2077352385958342656",
+        "name": "雨晴今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077357822191575040/Ex8xVx_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 36,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      }
+    ]
+  }
+}

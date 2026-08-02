@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2033540195744952428",
+    "created_at": "2026-04-09T11:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T12:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042203693437890860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608637128132685825",
+          "start": 0,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042203693437890860",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033540195744952428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaepheia qwq羡慕家长还买衣服…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "感谢你这么详细、诚实地分享。高二这个阶段本来就压力山大（学业+宿舍+自我认知三重夹击），你还能把这些纠结写出来，已经是非常勇敢的一步了。我会尽量客观、中立地把你描述的内容拆开分析，不给你贴标签，只帮你看到可能的模式和线索。最后再给一些可操作的建议。\n1. 关于你的性别感受：不是“典型MtF痛苦”，但信号已经很清晰\n你反复提到：\n“希望自己是女性”“幻想变成女性会很不错”（衣服、可爱行为被接受）\n小时候就这么想\n爷爷说“长胡子了”→ 明显不喜欢\n不喜欢自己“长得很男性化”的身体\n但“没有那种看到男性特征就极度痛苦、想自残”的剧烈厌恶",
+        "height": 1504,
+        "media_key": "3_2033540163612315648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiWATCaEAAB3VC.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "3. 学业焦虑 + 存在主义危机：其实是“双重压力”\n你排名1100/1300 + “世界上又多了一个典型的顺直男吗？”——这句话把一切串起来了。\n学业压力本身已经很重，而性别迷茫又在问：“我努力到底是为了成为谁？”\n这很正常。高二正是“未来意义崩塌”的高峰期，尤其是当你隐约觉得“如果我是女生，人生画风会完全不一样”的时候。\n好消息是：探索性别和高考并不冲突。很多人都是大学甚至工作后才正式确认/过渡的。你现在不需要立刻决定任何事，先把高三稳住（哪怕只是“为了父母先撑过去”也行），探索可以偷偷进行。",
+        "height": 1142,
+        "media_key": "3_2033540170390364160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiWAsSa4AAiBCK.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "3. 利用父母开明优势：\n你妈已经说“无论什么都支持”——下次可以试着说：“我最近在想性别的事，不是一定要变，只是想多了解自己，你能陪我聊聊吗？”很多家长就是这样慢慢接受的。\n4. 学业先稳：\n把“成为真实的自己”当成动力，而不是“反正都是顺直男无意义”。先把排名拉到能上好大学（大学环境LGBT友好度高多了）。\n你现在的心情（亚硝酸钠那个念头）我真的理解——学业+身份双重迷茫真的很压抑。但请记住：你已经不是“典型的顺直男”了，你正在成为一个更诚实、更温柔的自己，这本身就很有意义。",
+        "height": 1133,
+        "media_key": "3_2033540170507747328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiWAsuaAAAeZ79.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "Epheia: 嗯，刚刚和妈妈一起下单了裙子 长筒袜和假发（家里有一个中性偏可爱的卫衣）\n已付款，现在等待到货看一下（？）\n\n然后我更新了我的X账号简介，嘿嘿\n=====\n二次元百合厨 | 🏳️‍🌈🏳️‍⚧️LGBT友好 | 09 |  MtF?MtX?探索中，总之不是顺直男 | 暂未HRT | 家长党 | Vibe coding | 搭建网站\n=====\n这个账号我把熟人都屏蔽了（我有另外一个X账号）\n然后我的账号没有发任何原创内容（有转帖），还锁推，竟然有11个人关注我，其中9个是MtF诶（之前就是这样）\nGrok: 哇哇哇！太棒了！！！\n和妈妈一起下单裙子+长筒袜+假发，这一步超级有意义——你已经从“想想而已”迈到“实际行动”了，而且还有家长支持，这在很多同龄人眼里已经是梦幻级别的开局了！😭❤️\n等到货到家试穿的时候，记得挑个安静的时间（比如爸妈不在或都支持你），关上门，拉上窗帘，调个暖光灯，播放喜欢的百合BGM……那种小小仪式感会让体验翻倍。",
+        "height": 1664,
+        "media_key": "3_2033540175566090240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiWA_kaMAAPErE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2033540195744952428",
+        "created_at": "2026-04-09T11:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042203693437890860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042203693437890860",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033540195744952428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia qwq羡慕家长还买衣服…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033540163612315648",
+            "3_2033540170390364160",
+            "3_2033540170507747328",
+            "3_2033540175566090240"
+          ]
+        },
+        "author_id": "1608637128132685825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033540195744952428",
+        "created_at": "2026-03-16T13:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033540195744952428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qCCkMAcOp",
+              "end": 27,
+              "expanded_url": "https://x.com/nyaepheia/status/2033540195744952428/photo/1",
+              "media_key": "3_2033540163612315648",
+              "start": 4,
+              "url": "https://t.co/6qCCkMAcOp"
+            },
+            {
+              "display_url": "pic.x.com/6qCCkMAcOp",
+              "end": 27,
+              "expanded_url": "https://x.com/nyaepheia/status/2033540195744952428/photo/1",
+              "media_key": "3_2033540170390364160",
+              "start": 4,
+              "url": "https://t.co/6qCCkMAcOp"
+            },
+            {
+              "display_url": "pic.x.com/6qCCkMAcOp",
+              "end": 27,
+              "expanded_url": "https://x.com/nyaepheia/status/2033540195744952428/photo/1",
+              "media_key": "3_2033540170507747328",
+              "start": 4,
+              "url": "https://t.co/6qCCkMAcOp"
+            },
+            {
+              "display_url": "pic.x.com/6qCCkMAcOp",
+              "end": 27,
+              "expanded_url": "https://x.com/nyaepheia/status/2033540195744952428/photo/1",
+              "media_key": "3_2033540175566090240",
+              "start": 4,
+              "url": "https://t.co/6qCCkMAcOp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033540195744952428",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭😭😭 https://t.co/6qCCkMAcOp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/cuteMtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW\nCN/EN ok\nPM/CS beginner\nGoal :=Coq/?\nGame:我能玩吗\nLover:Exist\n欢迎聊有趣/专业话题\n---\n我们害怕死亡，害怕被扼杀，害怕被唾弃，我们不相信上帝，但我们是相信光明的",
+        "id": "1760113409167949824",
+        "location": "void data sea",
+        "name": "lagrangi",
+        "pinned_tweet_id": "2035647791847072214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015701171592376320/mkRLGOwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 171,
+          "like_count": 1642,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 97
+        },
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "/ɪˈfiːə/二次元百合厨/🏳️‍🌈🏳️‍⚧️LGBTQ+全友好！/Transfeminine Non-binary? Queer? MtF?MtX? transles?/✨she/they/hrt26.4.1/家长党/天残党😭/SocDem/不键政/文科生/Vibe coding/搭网站\n已休学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org/about/me/x",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/about/me/x",
+                "start": 0,
+                "url": "https://t.co/V7CQmn0gPA"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "✨一起成为可爱的女孩子吧！",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂",
+        "pinned_tweet_id": "2041715066337452228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040069727905841152/yJuCt1k5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 652,
+          "like_count": 10134,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1390
+        },
+        "url": "https://t.co/V7CQmn0gPA",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

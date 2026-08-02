@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080369146865532928"
+      ]
+    },
+    "author_id": "2077352385958342656",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080369153085710376",
+    "created_at": "2026-07-23T19:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T20:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080369153085710376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aGxhoaR7SL",
+          "end": 31,
+          "expanded_url": "https://x.com/RainEngine2026/status/2080369153085710376/photo/1",
+          "media_key": "3_2080369146865532928",
+          "start": 8,
+          "url": "https://t.co/aGxhoaR7SL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080369153085710376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是谁晚上睡不着 https://t.co/aGxhoaR7SL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2080369146865532928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN70t4CaQAApPP4.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080369146865532928"
+          ]
+        },
+        "author_id": "2077352385958342656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080369153085710376",
+        "created_at": "2026-07-23T19:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080369153085710376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aGxhoaR7SL",
+              "end": 31,
+              "expanded_url": "https://x.com/RainEngine2026/status/2080369153085710376/photo/1",
+              "media_key": "3_2080369146865532928",
+              "start": 8,
+              "url": "https://t.co/aGxhoaR7SL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080369153085710376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是谁晚上睡不着 https://t.co/aGxhoaR7SL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "",
+        "id": "2077352385958342656",
+        "name": "雨晴今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077357822191575040/Ex8xVx_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 52,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      }
+    ]
+  }
+}

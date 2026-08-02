@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837843674283294720",
+    "conversation_id": "2075627855783063783",
+    "created_at": "2026-07-10T17:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T18:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075627855783063783"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Shioochic_Xyn/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Shioochic_Xyn/status/2075585449939370472",
+          "start": 16,
+          "url": "https://t.co/V1zZRtrHxk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075627855783063783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075585449939370472",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这玩意难道不是邮箱就能注册了？ https://t.co/V1zZRtrHxk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837843674283294720",
+        "conversation_id": "2075627855783063783",
+        "created_at": "2026-07-10T17:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075627855783063783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shioochic_Xyn/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Shioochic_Xyn/status/2075585449939370472",
+              "start": 16,
+              "url": "https://t.co/V1zZRtrHxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075627855783063783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075585449939370472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这玩意难道不是邮箱就能注册了？ https://t.co/V1zZRtrHxk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033160782687731712",
+        "conversation_id": "2075585449939370472",
+        "created_at": "2026-07-10T14:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075585449939370472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075585449939370472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 467,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他妈现在创个谷歌账号这么麻烦吗，还要他妈验证电话号码"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/DZNsvIwmEa"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 130,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 111
+        },
+        "url": "https://t.co/DZNsvIwmEa",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期 09 04 08｜hrt 25 07 20🍥｜小证 26 01 17｜ADHD｜choose life ?!｜抢🐔姐@hiotemaron41774｜友跨顺男@Whatasiger｜友男跨顺@WhitesugarC｜友情链接:https://t.co/iIABjp0PAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "Whatasiger"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "WhitesugarC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 150,
+                "expanded_url": "https://whatasiger.xyz",
+                "start": 127,
+                "url": "https://t.co/iIABjp0PAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落 shio",
+        "pinned_tweet_id": "2061461592559239417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3880,
+          "following_count": 2038,
+          "like_count": 7838,
+          "listed_count": 6,
+          "media_count": 900,
+          "tweet_count": 6163
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

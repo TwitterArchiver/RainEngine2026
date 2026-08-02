@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837843674283294720",
+    "conversation_id": "2076165007151436078",
+    "created_at": "2026-07-12T04:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076165007151436078"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RainEngine2026…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/RainEngine2026/status/2075917540547776833",
+          "start": 46,
+          "url": "https://t.co/Wy6L7U9Rsp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076165007151436078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075917540547776833",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "收到内幕消息，昨天是由她向警方举报的事情，导致我又被警方带走了，这件事情后续我会继续追究的 https://t.co/Wy6L7U9Rsp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2075917533597904896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8j_4UbsAArxyO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837843674283294720",
+        "conversation_id": "2076165007151436078",
+        "created_at": "2026-07-12T04:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076165007151436078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainEngine2026…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/RainEngine2026/status/2075917540547776833",
+              "start": 46,
+              "url": "https://t.co/Wy6L7U9Rsp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076165007151436078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075917540547776833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收到内幕消息，昨天是由她向警方举报的事情，导致我又被警方带走了，这件事情后续我会继续追究的 https://t.co/Wy6L7U9Rsp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075917533597904896"
+          ]
+        },
+        "author_id": "1837843674283294720",
+        "conversation_id": "2075917540547776833",
+        "created_at": "2026-07-11T12:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075917540547776833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p468eqdiGZ",
+              "end": 63,
+              "expanded_url": "https://x.com/RainEngine2026/status/2075917540547776833/photo/1",
+              "media_key": "3_2075917533597904896",
+              "start": 40,
+              "url": "https://t.co/p468eqdiGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075917540547776833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6720,
+          "like_count": 101,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "今天心态有点爆炸...被她骗了几千块救命钱....她已经把所有媒体账号都注销了 https://t.co/p468eqdiGZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2026",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2026",
+                "start": 0,
+                "url": "https://t.co/7JvZdxAqN1"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 149,
+          "like_count": 694,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/7JvZdxAqN1",
+        "username": "RainEngine2026",
+        "verified": false
+      }
+    ]
+  }
+}

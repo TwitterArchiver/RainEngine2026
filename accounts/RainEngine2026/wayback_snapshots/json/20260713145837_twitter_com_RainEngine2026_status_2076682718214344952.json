@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837843674283294720",
+    "conversation_id": "2076682718214344952",
+    "created_at": "2026-07-13T14:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T15:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076682718214344952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AotraWong/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/AotraWong/status/2076361966889947236",
+          "start": 8,
+          "url": "https://t.co/Db1QEWctJh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076682718214344952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076361966889947236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抱抱姐姐... https://t.co/Db1QEWctJh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837843674283294720",
+        "conversation_id": "2076682718214344952",
+        "created_at": "2026-07-13T14:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076682718214344952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AotraWong/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/AotraWong/status/2076361966889947236",
+              "start": 8,
+              "url": "https://t.co/Db1QEWctJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076682718214344952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076361966889947236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抱抱姐姐... https://t.co/Db1QEWctJh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676634704878129152",
+        "conversation_id": "2076361966889947236",
+        "created_at": "2026-07-12T17:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T18:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076361966889947236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076361966889947236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 318,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "群里有位群友割手手，希望得到大家的关心，但是没人，于是我回复了一下下。当然这个点了还没睡的作息确实不太好（\n我觉得我虽然是有共情能力，但是睡前我的状态并不好，容易想当然\n我的GD，主要是在睡前爆发，所以我一般等眼睛睁不开了才躺回床上。真的我会想非常多trans相关的，包括过去和将来……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design / 🥰 @AotraWong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "AotraWong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2026",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2026",
+                "start": 0,
+                "url": "https://t.co/7JvZdxAqN1"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 161,
+          "like_count": 793,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/7JvZdxAqN1",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T16:50:50.000Z",
+        "description": "也许是个大姐姐 | 2008 May | 🏳️‍⚧️ | 过期JK |\n最喜欢的妹妹：@RainEngine2026 | 物化政但准医学生 |\n校心理社前部长 | IT/交通/医学（尤其是精神医学） 爱好者 | \n希望我能帮到你，哪怕只是一点点。谢谢你的Fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "RainEngine2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lcna.cn",
+                "end": 23,
+                "expanded_url": "https://blog.lcna.cn",
+                "start": 0,
+                "url": "https://t.co/9a4AgdadOU"
+              }
+            ]
+          }
+        },
+        "id": "1676634704878129152",
+        "location": "東莞 Dongguan",
+        "name": "Aotra Wong 芷姗",
+        "pinned_tweet_id": "2058188566497493045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069980335128113152/BDqo9jSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 1136,
+          "like_count": 25411,
+          "listed_count": 5,
+          "media_count": 511,
+          "tweet_count": 2072
+        },
+        "url": "https://t.co/9a4AgdadOU",
+        "username": "AotraWong",
+        "verified": false
+      }
+    ]
+  }
+}

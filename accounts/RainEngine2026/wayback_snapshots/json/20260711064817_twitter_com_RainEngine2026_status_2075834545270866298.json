@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837843674283294720",
+    "conversation_id": "2075834545270866298",
+    "created_at": "2026-07-11T06:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T07:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075834545270866298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Unk_Snow/statu…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Unk_Snow/status/2075825639853380079",
+          "start": 22,
+          "url": "https://t.co/3NRjrGahVa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075834545270866298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075825639853380079",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我ghostban都一周了🤬，还没解😭😭😭 https://t.co/3NRjrGahVa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837843674283294720",
+        "conversation_id": "2075834545270866298",
+        "created_at": "2026-07-11T06:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075834545270866298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Unk_Snow/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Unk_Snow/status/2075825639853380079",
+              "start": 22,
+              "url": "https://t.co/3NRjrGahVa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075834545270866298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075825639853380079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我ghostban都一周了🤬，还没解😭😭😭 https://t.co/3NRjrGahVa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067447448549949440",
+        "conversation_id": "2075825639853380079",
+        "created_at": "2026-07-11T06:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075825639853380079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075825639853380079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我ghostban都一周了🤬，还没解😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2026",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2026",
+                "start": 0,
+                "url": "https://t.co/7JvZdxAqN1"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 130,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 114
+        },
+        "url": "https://t.co/7JvZdxAqN1",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T03:21:40.000Z",
+        "description": "被关精卫中，不发帖就是被晶抓走了😭|\n前世@UnkXyn|\nMTX🏳️‍⚧️|HRT🍥01.28.2026，被迫断糖06.06.2026|无证|年龄党|家暴党😭|\n🎂11.13.2011🍰|暂时无法Od💊|163cm53kg|INFP-T|重度社恐|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk1111131",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk1111131",
+                "start": 0,
+                "url": "https://t.co/0ewSOP9bxV"
+              }
+            ]
+          }
+        },
+        "id": "2067447448549949440",
+        "name": "Unk🍥(5.0互fo寻回)",
+        "pinned_tweet_id": "2074414371103793364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073222728484851712/z8pUDHz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 467,
+          "like_count": 296,
+          "listed_count": 4,
+          "media_count": 25,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/0ewSOP9bxV",
+        "username": "Unk_Snow",
+        "verified": false
+      }
+    ]
+  }
+}

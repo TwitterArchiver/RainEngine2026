@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1760113409167949824",
+    "conversation_id": "2042857336306569229",
+    "created_at": "2026-04-11T06:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042859649209401366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2041482877125206016",
+          "start": 0,
+          "username": "XingJiang99905"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042859649209401366",
+    "in_reply_to_user_id": "2041482877125206016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042857336306569229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XingJiang99905 不要啊qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760113409167949824",
+        "conversation_id": "2042857336306569229",
+        "created_at": "2026-04-11T06:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042859649209401366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2041482877125206016",
+              "start": 0,
+              "username": "XingJiang99905"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042859649209401366",
+        "in_reply_to_user_id": "2041482877125206016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042857336306569229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XingJiang99905 不要啊qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041482877125206016",
+        "conversation_id": "2042857336306569229",
+        "created_at": "2026-04-11T06:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042857336306569229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ice714531/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Ice714531/status/2042826622798303479",
+              "start": 8,
+              "url": "https://t.co/kOEm9zYMv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042857336306569229",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042826622798303479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也要割手手嗎 https://t.co/kOEm9zYMv7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-21T01:25:31.000Z",
+        "description": "17y/AuDHD/cuteMtF\n普通国内高中生，精神状态还好？，大量隐属\nNo 见证/NSFW\nCN/EN ok\nPM/CS beginner\nGoal :=Coq/?\nGame:我能玩吗\nLover:Exist\n欢迎聊有趣/专业话题\n---\n我们害怕死亡，害怕被扼杀，害怕被唾弃，我们不相信上帝，但我们是相信光明的",
+        "id": "1760113409167949824",
+        "location": "void data sea",
+        "name": "lagrangi",
+        "pinned_tweet_id": "2042615937325764621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015701171592376320/mkRLGOwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 211,
+          "like_count": 2297,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 139
+        },
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T11:47:15.000Z",
+        "description": "mtf?/无证含糖/已休学/座标台中\nASD/ADHD/\n生产日期/2008/11/3\nHRT/2026/3/17\n已出柜/2026/4/7/家长党",
+        "id": "2041482877125206016",
+        "name": "✟ 星酱🍥✟",
+        "pinned_tweet_id": "2041517792541950445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041482937745489920/rpuy5WQF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 92,
+          "like_count": 157,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 212
+        },
+        "username": "XingJiang99905",
+        "verified": false
+      }
+    ]
+  }
+}

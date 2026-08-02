@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081833782676705280"
+      ]
+    },
+    "author_id": "2077352385958342656",
+    "conversation_id": "2081833795720991051",
+    "created_at": "2026-07-27T20:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T21:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081833795720991051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cC4Kxxgw6d",
+          "end": 30,
+          "expanded_url": "https://x.com/RainEngine2026/status/2081833795720991051/photo/1",
+          "media_key": "3_2081833782676705280",
+          "start": 7,
+          "url": "https://t.co/cC4Kxxgw6d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081833795720991051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "0元购好耶😋 https://t.co/cC4Kxxgw6d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081833782676705280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQoy5naUAAggiY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081833782676705280"
+          ]
+        },
+        "author_id": "2077352385958342656",
+        "conversation_id": "2081833795720991051",
+        "created_at": "2026-07-27T20:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081833795720991051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cC4Kxxgw6d",
+              "end": 30,
+              "expanded_url": "https://x.com/RainEngine2026/status/2081833795720991051/photo/1",
+              "media_key": "3_2081833782676705280",
+              "start": 7,
+              "url": "https://t.co/cC4Kxxgw6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081833795720991051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "0元购好耶😋 https://t.co/cC4Kxxgw6d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 109,
+          "like_count": 760,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      }
+    ]
+  }
+}

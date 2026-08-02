@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837843674283294720",
+    "conversation_id": "2075621809463189562",
+    "created_at": "2026-07-10T16:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T17:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075621809463189562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ilikesleepingh…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Ilikesleepinghh/status/2075556641089700337",
+          "start": 3,
+          "url": "https://t.co/1wvJtk0Yyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075621809463189562",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075556641089700337",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爆！ https://t.co/1wvJtk0Yyg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 197,
+        "media_key": "3_2075556636257832961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3bw49aUAE0fUq.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837843674283294720",
+        "conversation_id": "2075621809463189562",
+        "created_at": "2026-07-10T16:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075621809463189562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ilikesleepingh…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Ilikesleepinghh/status/2075556641089700337",
+              "start": 3,
+              "url": "https://t.co/1wvJtk0Yyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075621809463189562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075556641089700337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爆！ https://t.co/1wvJtk0Yyg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075556636257832961"
+          ]
+        },
+        "author_id": "1393373599579267073",
+        "conversation_id": "2075556641089700337",
+        "created_at": "2026-07-10T12:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075556641089700337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/78X7UbCihc",
+              "end": 39,
+              "expanded_url": "https://x.com/Ilikesleepinghh/status/2075556641089700337/photo/1",
+              "media_key": "3_2075556636257832961",
+              "start": 16,
+              "url": "https://t.co/78X7UbCihc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075556641089700337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 309,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没想到这么快就出来了\n洗洗睡🥱 https://t.co/78X7UbCihc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/DZNsvIwmEa"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 130,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/DZNsvIwmEa",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T01:12:37.000Z",
+        "description": "可以叫我婉星\n08 | mtf |🍥since25.3.5 \n珠江一中|傻福选科| IMSB |中中混血 | 恩格尔系数💯 |华籍美人👄 🍻德智体美劳 想吃麦当劳🍔\n🥰@shu_hao14180",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "shu_hao14180"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v50to.me",
+                "end": 23,
+                "expanded_url": "http://v50to.me",
+                "start": 0,
+                "url": "https://t.co/uY9ukwgpuP"
+              }
+            ]
+          }
+        },
+        "id": "1393373599579267073",
+        "location": "127.0.0.1",
+        "name": "好想睡够24小时啊啊啊啊啊🍥",
+        "pinned_tweet_id": "1921106684644110662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020110133645529088/GWrkohlM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 297,
+          "like_count": 1383,
+          "listed_count": 1,
+          "media_count": 287,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/uY9ukwgpuP",
+        "username": "Ilikesleepinghh",
+        "verified": false
+      }
+    ]
+  }
+}

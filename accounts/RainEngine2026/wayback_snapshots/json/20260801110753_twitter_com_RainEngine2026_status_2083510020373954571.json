@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077352385958342656",
+    "conversation_id": "2083510020373954571",
+    "created_at": "2026-08-01T11:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083510020373954571"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083510020373954571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我仲係希望大家愛自己嘅，因為食藥嘅感覺唔好受，但係我不得不接受呢一切，各種失眠、疲勞多夢下降專注力，對於我嚟講，呢個唔單止係煎熬，更係詛咒，我成日都原諒唔到咁狼狽嘅自己，可現實卻畀仲追求目標嘅我帶嚟咗當頭一棒，我經常都好憎自己，我做唔到我想成為嘅樣子，可恨老天啦，將我調教成咁狼狽下流嘅樣，憎到最後，仲係自己嘛⋯我冇好好愛我自己，我感到愧疚，所以我更加希望愛住大家，亦或者係畀大家試住去愛住自己，相信自己啦，你可以做得更好，世界愛住你"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我仲係希望大家愛自己嘅，因為食藥嘅感覺唔好受，但係我不得不接受呢一切，各種失眠、疲勞多夢下降專注力，對於我嚟講，呢個唔單止係煎熬，更係詛咒，我成日都原諒唔到咁狼狽嘅自己，可現實卻畀仲追求目標嘅我帶嚟咗當頭一棒，我經常都好憎自己，我做唔到我想成為嘅樣子，可恨老天啦，將我調教成咁狼狽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077352385958342656",
+        "conversation_id": "2083510020373954571",
+        "created_at": "2026-08-01T11:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083510020373954571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083510020373954571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我仲係希望大家愛自己嘅，因為食藥嘅感覺唔好受，但係我不得不接受呢一切，各種失眠、疲勞多夢下降專注力，對於我嚟講，呢個唔單止係煎熬，更係詛咒，我成日都原諒唔到咁狼狽嘅自己，可現實卻畀仲追求目標嘅我帶嚟咗當頭一棒，我經常都好憎自己，我做唔到我想成為嘅樣子，可恨老天啦，將我調教成咁狼狽下流嘅樣，憎到最後，仲係自己嘛⋯我冇好好愛我自己，我感到愧疚，所以我更加希望愛住大家，亦或者係畀大家試住去愛住自己，相信自己啦，你可以做得更好，世界愛住你"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我仲係希望大家愛自己嘅，因為食藥嘅感覺唔好受，但係我不得不接受呢一切，各種失眠、疲勞多夢下降專注力，對於我嚟講，呢個唔單止係煎熬，更係詛咒，我成日都原諒唔到咁狼狽嘅自己，可現實卻畀仲追求目標嘅我帶嚟咗當頭一棒，我經常都好憎自己，我做唔到我想成為嘅樣子，可恨老天啦，將我調教成咁狼狽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer /Android ROM Developer /Unity3D Beginner / 19y.o./ GMT+8 / ZH-CN",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 141,
+          "like_count": 1068,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": true
+      }
+    ]
+  }
+}

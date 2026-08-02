@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078244281454915584"
+      ],
+      "media_source_tweet_id": [
+        "2078244288677519780"
+      ]
+    },
+    "author_id": "2077352385958342656",
+    "conversation_id": "2078245253069652056",
+    "created_at": "2026-07-17T22:27:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T23:27:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078245253069652056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1837843674283294720",
+          "start": 3,
+          "username": "TeamRain2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/32vg0RYrRe",
+          "end": 95,
+          "expanded_url": "https://x.com/TeamRain2024/status/2078244288677519780/photo/1",
+          "media_key": "3_2078244281454915584",
+          "start": 72,
+          "url": "https://t.co/32vg0RYrRe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078245253069652056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078244288677519780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TeamRain2024: 雨擎2024账号经过一个星期的申诉已确定名已存亡，2024.7-2026.7，10662fo，感谢大家支持 https://t.co/32vg0RYrRe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078244281454915584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNdoKbibcAAqRI4.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078244281454915584"
+          ]
+        },
+        "author_id": "1837843674283294720",
+        "conversation_id": "2078244288677519780",
+        "created_at": "2026-07-17T22:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T23:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078244288677519780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/32vg0RYrRe",
+              "end": 77,
+              "expanded_url": "https://x.com/TeamRain2024/status/2078244288677519780/photo/1",
+              "media_key": "3_2078244281454915584",
+              "start": 54,
+              "url": "https://t.co/32vg0RYrRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078244288677519780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "雨擎2024账号经过一个星期的申诉已确定名已存亡，2024.7-2026.7，10662fo，感谢大家支持 https://t.co/32vg0RYrRe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078244281454915584"
+          ],
+          "media_source_tweet_id": [
+            "2078244288677519780"
+          ]
+        },
+        "author_id": "2077352385958342656",
+        "conversation_id": "2078245253069652056",
+        "created_at": "2026-07-17T22:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T23:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078245253069652056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1837843674283294720",
+              "start": 3,
+              "username": "TeamRain2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/32vg0RYrRe",
+              "end": 95,
+              "expanded_url": "https://x.com/TeamRain2024/status/2078244288677519780/photo/1",
+              "media_key": "3_2078244281454915584",
+              "start": 72,
+              "url": "https://t.co/32vg0RYrRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078245253069652056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078244288677519780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TeamRain2024: 雨擎2024账号经过一个星期的申诉已确定名已存亡，2024.7-2026.7，10662fo，感谢大家支持 https://t.co/32vg0RYrRe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "",
+        "id": "2077352385958342656",
+        "name": "雨晴今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077357822191575040/Ex8xVx_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 10,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design / 🥰 @AotraWong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "AotraWong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2026",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2026",
+                "start": 0,
+                "url": "https://t.co/7JvZdxAqN1"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 167,
+          "like_count": 922,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/7JvZdxAqN1",
+        "username": "TeamRain2024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079921495229530112",
+        "3_2079921520898613248",
+        "3_2079921534412718080",
+        "3_2079921546714583041"
+      ]
+    },
+    "author_id": "2077352385958342656",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2079921563584036900",
+    "created_at": "2026-07-22T13:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079921563584036900"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GjbJIJZAuZ",
+          "end": 42,
+          "expanded_url": "https://x.com/RainEngine2026/status/2079921563584036900/photo/1",
+          "media_key": "3_2079921495229530112",
+          "start": 19,
+          "url": "https://t.co/GjbJIJZAuZ"
+        },
+        {
+          "display_url": "pic.x.com/GjbJIJZAuZ",
+          "end": 42,
+          "expanded_url": "https://x.com/RainEngine2026/status/2079921563584036900/photo/1",
+          "media_key": "3_2079921520898613248",
+          "start": 19,
+          "url": "https://t.co/GjbJIJZAuZ"
+        },
+        {
+          "display_url": "pic.x.com/GjbJIJZAuZ",
+          "end": 42,
+          "expanded_url": "https://x.com/RainEngine2026/status/2079921563584036900/photo/1",
+          "media_key": "3_2079921534412718080",
+          "start": 19,
+          "url": "https://t.co/GjbJIJZAuZ"
+        },
+        {
+          "display_url": "pic.x.com/GjbJIJZAuZ",
+          "end": 42,
+          "expanded_url": "https://x.com/RainEngine2026/status/2079921563584036900/photo/1",
+          "media_key": "3_2079921546714583041",
+          "start": 19,
+          "url": "https://t.co/GjbJIJZAuZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079921563584036900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打卡上海静安寺Apple Store https://t.co/GjbJIJZAuZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2079921495229530112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1dlHvbAAAR9vE.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2079921520898613248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1dmnXaIAA9DmO.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2448,
+        "media_key": "3_2079921534412718080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1dnZtbAAA1F21.jpg",
+        "width": 3264
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2079921546714583041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1doHiakAE9l7H.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079921495229530112",
+            "3_2079921520898613248",
+            "3_2079921534412718080",
+            "3_2079921546714583041"
+          ]
+        },
+        "author_id": "2077352385958342656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2079921563584036900",
+        "created_at": "2026-07-22T13:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079921563584036900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjbJIJZAuZ",
+              "end": 42,
+              "expanded_url": "https://x.com/RainEngine2026/status/2079921563584036900/photo/1",
+              "media_key": "3_2079921495229530112",
+              "start": 19,
+              "url": "https://t.co/GjbJIJZAuZ"
+            },
+            {
+              "display_url": "pic.x.com/GjbJIJZAuZ",
+              "end": 42,
+              "expanded_url": "https://x.com/RainEngine2026/status/2079921563584036900/photo/1",
+              "media_key": "3_2079921520898613248",
+              "start": 19,
+              "url": "https://t.co/GjbJIJZAuZ"
+            },
+            {
+              "display_url": "pic.x.com/GjbJIJZAuZ",
+              "end": 42,
+              "expanded_url": "https://x.com/RainEngine2026/status/2079921563584036900/photo/1",
+              "media_key": "3_2079921534412718080",
+              "start": 19,
+              "url": "https://t.co/GjbJIJZAuZ"
+            },
+            {
+              "display_url": "pic.x.com/GjbJIJZAuZ",
+              "end": 42,
+              "expanded_url": "https://x.com/RainEngine2026/status/2079921563584036900/photo/1",
+              "media_key": "3_2079921546714583041",
+              "start": 19,
+              "url": "https://t.co/GjbJIJZAuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079921563584036900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打卡上海静安寺Apple Store https://t.co/GjbJIJZAuZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "",
+        "id": "2077352385958342656",
+        "name": "雨晴今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077357822191575040/Ex8xVx_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 29,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      }
+    ]
+  }
+}

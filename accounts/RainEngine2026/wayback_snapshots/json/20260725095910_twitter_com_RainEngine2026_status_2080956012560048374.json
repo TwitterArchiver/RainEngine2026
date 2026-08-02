@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077352385958342656",
+    "conversation_id": "2080911838657855823",
+    "created_at": "2026-07-25T09:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T10:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080956012560048374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Ak1raQ_love"
+        },
+        {
+          "end": 24,
+          "id": "1900552328937435136",
+          "start": 13,
+          "username": "fengyanuuu"
+        },
+        {
+          "end": 33,
+          "id": "1690570637499154432",
+          "start": 25,
+          "username": "zhwevea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080956012560048374",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080911838657855823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Ak1raQ_love @fengyanuuu @zhwevea 其实可以去商场找个手机店（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_2080911827589115904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODiSDRbsAAs_kg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077352385958342656",
+        "conversation_id": "2080911838657855823",
+        "created_at": "2026-07-25T09:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080956012560048374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 24,
+              "id": "1900552328937435136",
+              "start": 13,
+              "username": "fengyanuuu"
+            },
+            {
+              "end": 33,
+              "id": "1690570637499154432",
+              "start": 25,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080956012560048374",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080911838657855823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love @fengyanuuu @zhwevea 其实可以去商场找个手机店（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080911827589115904"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080911838657855823",
+        "created_at": "2026-07-25T07:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080911838657855823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QUsZvB3grw",
+              "end": 49,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2080911838657855823/photo/1",
+              "media_key": "3_2080911827589115904",
+              "start": 26,
+              "url": "https://t.co/QUsZvB3grw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080911838657855823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 821,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "other",
+        "text": "面基耶✌️\n因为没带第二台手机只能这样了w\n\n苏州 https://t.co/QUsZvB3grw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Offiaicl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 87,
+          "like_count": 552,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9249,
+          "following_count": 1114,
+          "like_count": 203835,
+          "listed_count": 6,
+          "media_count": 1029,
+          "tweet_count": 8130
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-14T14:19:25.000Z",
+        "description": "mtf🏳️‍⚧️ 无证含糖丨想要变成可爱的鲨鲨 可爱猫猫也可以（？丨同类贴贴 互fo喵丨07丨INTP丨喜欢可爱的东西喵丨不od 不割手 不鉴证",
+        "id": "1900552328937435136",
+        "location": "苏州",
+        "name": "鲨鲨喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051954645996830720/ZvbsguSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 267,
+          "like_count": 919,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "fengyanuuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 还可以叫我 Eliya ～｜想要每天耍乐到处玩 ✈️｜想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7636,
+          "following_count": 436,
+          "like_count": 33511,
+          "listed_count": 24,
+          "media_count": 2669,
+          "tweet_count": 20805
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "zhwevea",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080290800030896129"
+      ]
+    },
+    "author_id": "2077352385958342656",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2080290811275772001",
+    "created_at": "2026-07-23T13:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080290811275772001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rB6OQV4i1f",
+          "end": 30,
+          "expanded_url": "https://x.com/RainEngine2026/status/2080290811275772001/photo/1",
+          "media_key": "3_2080290800030896129",
+          "start": 7,
+          "url": "https://t.co/rB6OQV4i1f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080290811275772001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日份萨莉亚 https://t.co/rB6OQV4i1f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2080290800030896129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6tdfVa0AEIdrm.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080290800030896129"
+          ]
+        },
+        "author_id": "2077352385958342656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080290811275772001",
+        "created_at": "2026-07-23T13:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080290811275772001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rB6OQV4i1f",
+              "end": 30,
+              "expanded_url": "https://x.com/RainEngine2026/status/2080290811275772001/photo/1",
+              "media_key": "3_2080290800030896129",
+              "start": 7,
+              "url": "https://t.co/rB6OQV4i1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080290811275772001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日份萨莉亚 https://t.co/rB6OQV4i1f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "",
+        "id": "2077352385958342656",
+        "name": "雨晴今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077357822191575040/Ex8xVx_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 41,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      }
+    ]
+  }
+}

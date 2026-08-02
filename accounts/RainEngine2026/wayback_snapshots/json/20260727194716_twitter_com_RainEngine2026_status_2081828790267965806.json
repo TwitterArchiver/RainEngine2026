@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077352385958342656",
+    "conversation_id": "2081828790267965806",
+    "created_at": "2026-07-27T19:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T20:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081828790267965806"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081828790267965806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在互联网活跃了11年，我对互联网上的键盘侠是非常了解的，他们想要希望的就是站在高高度的“道德绑架”与实现所谓的自我正义感，​他们站在道德制高点审判，喜欢用圣人的标准要求别人，用极其苛刻的标准去评价任何人，从不会为自己之前发表过的错误言论道歉或反思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077352385958342656",
+        "conversation_id": "2081828790267965806",
+        "created_at": "2026-07-27T19:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081828790267965806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081828790267965806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在互联网活跃了11年，我对互联网上的键盘侠是非常了解的，他们想要希望的就是站在高高度的“道德绑架”与实现所谓的自我正义感，​他们站在道德制高点审判，喜欢用圣人的标准要求别人，用极其苛刻的标准去评价任何人，从不会为自己之前发表过的错误言论道歉或反思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 109,
+          "like_count": 755,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 152
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      }
+    ]
+  }
+}

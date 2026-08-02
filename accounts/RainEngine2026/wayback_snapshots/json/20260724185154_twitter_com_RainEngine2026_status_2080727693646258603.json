@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080727686784409600"
+      ]
+    },
+    "author_id": "2077352385958342656",
+    "conversation_id": "2080727693646258603",
+    "created_at": "2026-07-24T18:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T19:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080727693646258603"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0WcC5ufFQm",
+          "end": 39,
+          "expanded_url": "https://x.com/RainEngine2026/status/2080727693646258603/photo/1",
+          "media_key": "3_2080727686784409600",
+          "start": 16,
+          "url": "https://t.co/0WcC5ufFQm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080727693646258603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原号不打算再作为个人账号使用了 https://t.co/0WcC5ufFQm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080727686784409600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOA6zpUa4AAqPGD.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080727686784409600"
+          ]
+        },
+        "author_id": "2077352385958342656",
+        "conversation_id": "2080727693646258603",
+        "created_at": "2026-07-24T18:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080727693646258603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0WcC5ufFQm",
+              "end": 39,
+              "expanded_url": "https://x.com/RainEngine2026/status/2080727693646258603/photo/1",
+              "media_key": "3_2080727686784409600",
+              "start": 16,
+              "url": "https://t.co/0WcC5ufFQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080727693646258603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原号不打算再作为个人账号使用了 https://t.co/0WcC5ufFQm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "",
+        "id": "2077352385958342656",
+        "name": "雨晴今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077357822191575040/Ex8xVx_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 82,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      }
+    ]
+  }
+}

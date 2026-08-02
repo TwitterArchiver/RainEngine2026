@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083462159145783296"
+      ]
+    },
+    "author_id": "2077352385958342656",
+    "conversation_id": "2083462189357359250",
+    "created_at": "2026-08-01T07:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083462189357359250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CUQECtPbMk",
+          "end": 37,
+          "expanded_url": "https://x.com/RainEngine2026/status/2083462189357359250/photo/1",
+          "media_key": "3_2083462159145783296",
+          "start": 14,
+          "url": "https://t.co/CUQECtPbMk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083462189357359250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "杭州未来科技城学术交流中心 https://t.co/CUQECtPbMk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083462159145783296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnxy4raUAA2SIH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083462159145783296"
+          ]
+        },
+        "author_id": "2077352385958342656",
+        "conversation_id": "2083462189357359250",
+        "created_at": "2026-08-01T07:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083462189357359250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUQECtPbMk",
+              "end": 37,
+              "expanded_url": "https://x.com/RainEngine2026/status/2083462189357359250/photo/1",
+              "media_key": "3_2083462159145783296",
+              "start": 14,
+              "url": "https://t.co/CUQECtPbMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083462189357359250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杭州未来科技城学术交流中心 https://t.co/CUQECtPbMk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer /Android ROM Developer /Unity3D Beginner / 19y.o./ GMT+8 / ZH-CN",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 138,
+          "like_count": 1064,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": true
+      }
+    ]
+  }
+}

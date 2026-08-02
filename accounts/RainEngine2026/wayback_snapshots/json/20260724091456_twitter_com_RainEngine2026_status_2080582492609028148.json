@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077352385958342656",
+    "conversation_id": "2080538053773562366",
+    "created_at": "2026-07-24T09:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080582492609028148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1647298376537612290",
+          "start": 0,
+          "username": "netxfer"
+        },
+        {
+          "end": 21,
+          "id": "1663066129923981312",
+          "start": 9,
+          "username": "Ak1raQ_love"
+        },
+        {
+          "end": 35,
+          "id": "1837843674283294720",
+          "start": 22,
+          "username": "TeamRain2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080582492609028148",
+    "in_reply_to_user_id": "1647298376537612290",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080582016010277310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@netxfer @Ak1raQ_love @TeamRain2024 你也在（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2080582007856463872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-2UBBagAA1lPn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077352385958342656",
+        "conversation_id": "2080538053773562366",
+        "created_at": "2026-07-24T09:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080582492609028148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1647298376537612290",
+              "start": 0,
+              "username": "netxfer"
+            },
+            {
+              "end": 21,
+              "id": "1663066129923981312",
+              "start": 9,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 35,
+              "id": "1837843674283294720",
+              "start": 22,
+              "username": "TeamRain2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080582492609028148",
+        "in_reply_to_user_id": "1647298376537612290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080582016010277310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@netxfer @Ak1raQ_love @TeamRain2024 你也在（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080582007856463872"
+          ]
+        },
+        "author_id": "1647298376537612290",
+        "conversation_id": "2080538053773562366",
+        "created_at": "2026-07-24T09:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080582016010277310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 28,
+              "id": "2077352385958342656",
+              "start": 13,
+              "username": "RainEngine2026"
+            },
+            {
+              "end": 42,
+              "id": "1837843674283294720",
+              "start": 29,
+              "username": "TeamRain2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdBrochSyY",
+              "end": 71,
+              "expanded_url": "https://x.com/netxfer/status/2080582016010277310/photo/1",
+              "media_key": "3_2080582007856463872",
+              "start": 48,
+              "url": "https://t.co/CdBrochSyY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080582016010277310",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080538053773562366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love @RainEngine2026 @TeamRain2024 打个卡😎 https://t.co/CdBrochSyY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "",
+        "id": "2077352385958342656",
+        "name": "雨晴今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077357822191575040/Ex8xVx_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 62,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T17:58:53.000Z",
+        "description": "上海张江，八零后，C++程序员，生理男，心理女，不婚。单向关注和浏览为主，回关随意。私信限互关，不主动打扰他人。目前关注或回关MTF群体，无法判定的暂不回关。",
+        "id": "1647298376537612290",
+        "location": "GitHub",
+        "name": "天涯過客",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030047959073837056/qrZJJ_In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 112,
+          "like_count": 806,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 797
+        },
+        "url": "",
+        "username": "netxfer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9336,
+          "following_count": 1103,
+          "like_count": 203323,
+          "listed_count": 6,
+          "media_count": 1019,
+          "tweet_count": 8105
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design / 🥰 @AotraWong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "AotraWong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2026",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2026",
+                "start": 0,
+                "url": "https://t.co/7JvZdxAqN1"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 168,
+          "like_count": 1010,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 195
+        },
+        "url": "https://t.co/7JvZdxAqN1",
+        "username": "TeamRain2024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080535157866655744",
+        "3_2080535157904494592",
+        "3_2080535157870821376"
+      ],
+      "media_source_tweet_id": [
+        "2080538053773562366",
+        "2080538053773562366",
+        "2080538053773562366"
+      ]
+    },
+    "author_id": "2077352385958342656",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080539555057610977",
+    "created_at": "2026-07-24T06:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T07:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080539555057610977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663066129923981312",
+          "start": 3,
+          "username": "Ak1raQ_love"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FFOJbY9a4z",
+          "end": 58,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2080538053773562366/photo/1",
+          "media_key": "3_2080535157866655744",
+          "start": 35,
+          "url": "https://t.co/FFOJbY9a4z"
+        },
+        {
+          "display_url": "pic.x.com/FFOJbY9a4z",
+          "end": 58,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2080538053773562366/photo/1",
+          "media_key": "3_2080535157904494592",
+          "start": 35,
+          "url": "https://t.co/FFOJbY9a4z"
+        },
+        {
+          "display_url": "pic.x.com/FFOJbY9a4z",
+          "end": 58,
+          "expanded_url": "https://x.com/Ak1raQ_love/status/2080538053773562366/photo/1",
+          "media_key": "3_2080535157870821376",
+          "start": 35,
+          "url": "https://t.co/FFOJbY9a4z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080539555057610977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080538053773562366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak1raQ_love: 在麦当劳举行神秘仪式（\n\n上海黄埔 https://t.co/FFOJbY9a4z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2080535157866655744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-Ls_NacAAJUrs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2080535157904494592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-Ls_Wb0AA_cZD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2080535157870821376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-Ls_OaAAAtucC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080535157866655744",
+            "3_2080535157904494592",
+            "3_2080535157870821376"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080538053773562366",
+        "created_at": "2026-07-24T06:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:07:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080535201474822170",
+          "2080538053773562366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FFOJbY9a4z",
+              "end": 41,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2080538053773562366/photo/1",
+              "media_key": "3_2080535157866655744",
+              "start": 18,
+              "url": "https://t.co/FFOJbY9a4z"
+            },
+            {
+              "display_url": "pic.x.com/FFOJbY9a4z",
+              "end": 41,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2080538053773562366/photo/1",
+              "media_key": "3_2080535157904494592",
+              "start": 18,
+              "url": "https://t.co/FFOJbY9a4z"
+            },
+            {
+              "display_url": "pic.x.com/FFOJbY9a4z",
+              "end": 41,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2080538053773562366/photo/1",
+              "media_key": "3_2080535157870821376",
+              "start": 18,
+              "url": "https://t.co/FFOJbY9a4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080538053773562366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在麦当劳举行神秘仪式（\n\n上海黄埔 https://t.co/FFOJbY9a4z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080535157866655744",
+            "3_2080535157904494592",
+            "3_2080535157870821376"
+          ],
+          "media_source_tweet_id": [
+            "2080538053773562366",
+            "2080538053773562366",
+            "2080538053773562366"
+          ]
+        },
+        "author_id": "2077352385958342656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080539555057610977",
+        "created_at": "2026-07-24T06:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080539555057610977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663066129923981312",
+              "start": 3,
+              "username": "Ak1raQ_love"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FFOJbY9a4z",
+              "end": 58,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2080538053773562366/photo/1",
+              "media_key": "3_2080535157866655744",
+              "start": 35,
+              "url": "https://t.co/FFOJbY9a4z"
+            },
+            {
+              "display_url": "pic.x.com/FFOJbY9a4z",
+              "end": 58,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2080538053773562366/photo/1",
+              "media_key": "3_2080535157904494592",
+              "start": 35,
+              "url": "https://t.co/FFOJbY9a4z"
+            },
+            {
+              "display_url": "pic.x.com/FFOJbY9a4z",
+              "end": 58,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2080538053773562366/photo/1",
+              "media_key": "3_2080535157870821376",
+              "start": 35,
+              "url": "https://t.co/FFOJbY9a4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080539555057610977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080538053773562366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak1raQ_love: 在麦当劳举行神秘仪式（\n\n上海黄埔 https://t.co/FFOJbY9a4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "",
+        "id": "2077352385958342656",
+        "name": "雨晴今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077357822191575040/Ex8xVx_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 59,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9356,
+          "following_count": 1102,
+          "like_count": 203314,
+          "listed_count": 8,
+          "media_count": 1015,
+          "tweet_count": 8101
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077352385958342656",
+    "conversation_id": "2080700581870772470",
+    "created_at": "2026-07-24T17:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080700581870772470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1280001743162609664",
+          "start": 3,
+          "username": "Poca2381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080700581870772470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080338692250779916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Poca2381: 喜欢温柔的人是因为小时候经常被吼吗\n喜欢虐恋是因为疼痛才能感觉到爱吗\n喜欢强制爱是因为从来没有被坚定选择过吗\n喜欢救赎别人是因为自己从没有过而救赎吗\n喜欢随便无所谓是因为不想再被伤害吗\n喜欢聊天是因为一直没人陪你吗\n喜欢忍气吞声是因为从来没有过靠山吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077352385958342656",
+        "conversation_id": "2080700581870772470",
+        "created_at": "2026-07-24T17:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080700581870772470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1280001743162609664",
+              "start": 3,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080700581870772470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080338692250779916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Poca2381: 喜欢温柔的人是因为小时候经常被吼吗\n喜欢虐恋是因为疼痛才能感觉到爱吗\n喜欢强制爱是因为从来没有被坚定选择过吗\n喜欢救赎别人是因为自己从没有过而救赎吗\n喜欢随便无所谓是因为不想再被伤害吗\n喜欢聊天是因为一直没人陪你吗\n喜欢忍气吞声是因为从来没有过靠山吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2080338692250779916",
+        "created_at": "2026-07-23T17:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080338692250779916"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080338692250779916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "喜欢温柔的人是因为小时候经常被吼吗\n喜欢虐恋是因为疼痛才能感觉到爱吗\n喜欢强制爱是因为从来没有被坚定选择过吗\n喜欢救赎别人是因为自己从没有过而救赎吗\n喜欢随便无所谓是因为不想再被伤害吗\n喜欢聊天是因为一直没人陪你吗\n喜欢忍气吞声是因为从来没有过靠山吗\n喜欢嘴硬是因为没有人懂你吗\n喜欢把话憋在心里是因为没有人能接得住情绪吗\n喜欢比你大的 是因为从没有人为你出谋划策吗\n喜欢一个人是因为知道从来没人会一直陪着你吗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 444,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢温柔的人是因为小时候经常被吼吗\n喜欢虐恋是因为疼痛才能感觉到爱吗\n喜欢强制爱是因为从来没有被坚定选择过吗\n喜欢救赎别人是因为自己从没有过而救赎吗\n喜欢随便无所谓是因为不想再被伤害吗\n喜欢聊天是因为一直没人陪你吗\n喜欢忍气吞声是因为从来没有过靠山吗\n喜欢嘴硬是因为没有人懂你吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "",
+        "id": "2077352385958342656",
+        "name": "雨晴今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077357822191575040/Ex8xVx_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 80,
+          "like_count": 474,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23176,
+          "following_count": 10180,
+          "like_count": 153676,
+          "listed_count": 52,
+          "media_count": 5677,
+          "tweet_count": 54672
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

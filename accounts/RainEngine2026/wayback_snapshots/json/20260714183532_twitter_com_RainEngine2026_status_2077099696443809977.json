@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077048942559399936"
+      ],
+      "media_source_tweet_id": [
+        "2077048962490778093"
+      ]
+    },
+    "author_id": "1837843674283294720",
+    "conversation_id": "2077099696443809977",
+    "created_at": "2026-07-14T18:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T19:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077099696443809977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1622066090074607616",
+          "start": 3,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BgQl16oOU9",
+          "end": 68,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2077048962490778093/photo/1",
+          "media_key": "3_2077048942559399936",
+          "start": 45,
+          "url": "https://t.co/BgQl16oOU9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077099696443809977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077048962490778093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofujivy: 这是让中产，小康，温饱，三个阶级看了都会笑的一段话 https://t.co/BgQl16oOU9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 718,
+        "media_key": "3_2077048942559399936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMpAjJakAAVRjK.jpg",
+        "width": 1104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077048942559399936"
+          ],
+          "media_source_tweet_id": [
+            "2077048962490778093"
+          ]
+        },
+        "author_id": "1837843674283294720",
+        "conversation_id": "2077099696443809977",
+        "created_at": "2026-07-14T18:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077099696443809977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1622066090074607616",
+              "start": 3,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BgQl16oOU9",
+              "end": 68,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2077048962490778093/photo/1",
+              "media_key": "3_2077048942559399936",
+              "start": 45,
+              "url": "https://t.co/BgQl16oOU9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077099696443809977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077048962490778093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinofujivy: 这是让中产，小康，温饱，三个阶级看了都会笑的一段话 https://t.co/BgQl16oOU9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077048942559399936"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2077048962490778093",
+        "created_at": "2026-07-14T15:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077048962490778093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BgQl16oOU9",
+              "end": 49,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2077048962490778093/photo/1",
+              "media_key": "3_2077048942559399936",
+              "start": 26,
+              "url": "https://t.co/BgQl16oOU9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077048962490778093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3417,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这是让中产，小康，温饱，三个阶级看了都会笑的一段话 https://t.co/BgQl16oOU9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design / 🥰 @AotraWong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "AotraWong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2026",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2026",
+                "start": 0,
+                "url": "https://t.co/7JvZdxAqN1"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 163,
+          "like_count": 823,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/7JvZdxAqN1",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12749,
+          "following_count": 4400,
+          "like_count": 51261,
+          "listed_count": 29,
+          "media_count": 3285,
+          "tweet_count": 17756
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

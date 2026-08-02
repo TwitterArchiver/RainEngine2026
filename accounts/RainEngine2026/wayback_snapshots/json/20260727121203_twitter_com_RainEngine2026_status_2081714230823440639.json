@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077352385958342656",
+    "conversation_id": "2081710361980592355",
+    "created_at": "2026-07-27T12:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081714230823440639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1647298376537612290",
+          "start": 0,
+          "username": "netxfer"
+        },
+        {
+          "end": 19,
+          "id": "1676634704878129152",
+          "start": 9,
+          "username": "AotraWong"
+        },
+        {
+          "end": 36,
+          "id": "1393373599579267073",
+          "start": 20,
+          "username": "Ilikesleepinghh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081714230823440639",
+    "in_reply_to_user_id": "1647298376537612290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081713934453911560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@netxfer @AotraWong @Ilikesleepinghh 是的呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077352385958342656",
+        "conversation_id": "2081710361980592355",
+        "created_at": "2026-07-27T12:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081714230823440639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1647298376537612290",
+              "start": 0,
+              "username": "netxfer"
+            },
+            {
+              "end": 19,
+              "id": "1676634704878129152",
+              "start": 9,
+              "username": "AotraWong"
+            },
+            {
+              "end": 36,
+              "id": "1393373599579267073",
+              "start": 20,
+              "username": "Ilikesleepinghh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081714230823440639",
+        "in_reply_to_user_id": "1647298376537612290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081713934453911560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@netxfer @AotraWong @Ilikesleepinghh 是的呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647298376537612290",
+        "conversation_id": "2081710361980592355",
+        "created_at": "2026-07-27T12:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081713934453911560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2077352385958342656",
+              "start": 0,
+              "username": "RainEngine2026"
+            },
+            {
+              "end": 26,
+              "id": "1676634704878129152",
+              "start": 16,
+              "username": "AotraWong"
+            },
+            {
+              "end": 43,
+              "id": "1393373599579267073",
+              "start": 27,
+              "username": "Ilikesleepinghh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081713934453911560",
+        "in_reply_to_user_id": "2077352385958342656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081710361980592355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2026 @AotraWong @Ilikesleepinghh 看样子又是萨利亚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 103,
+          "like_count": 684,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T17:58:53.000Z",
+        "description": "上海张江，八零后，C++程序员，生理男，心理女，不婚。单向关注和浏览为主，回关随意。私信限互关，不主动打扰他人。目前关注或回关MTF群体，无法判定的暂不回关。",
+        "id": "1647298376537612290",
+        "location": "GitHub",
+        "name": "天涯過客",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030047959073837056/qrZJJ_In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 113,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 812
+        },
+        "url": "",
+        "username": "netxfer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T16:50:50.000Z",
+        "description": "也许是个大姐姐 | 2008 May | 🏳️‍⚧️ | 过期JK |\n最喜欢的妹妹：@RainEngine2026 | 物化政但准医学生 |\n校心理社前部长 | IT/交通/医学（尤其是精神医学） 爱好者 | \n希望我能帮到你，哪怕只是一点点。谢谢你的Fo！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "RainEngine2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.lcna.cn",
+                "end": 23,
+                "expanded_url": "https://blog.lcna.cn",
+                "start": 0,
+                "url": "https://t.co/9a4AgdadOU"
+              }
+            ]
+          }
+        },
+        "id": "1676634704878129152",
+        "location": "東莞 Dongguan",
+        "name": "Aotra Wong 芷姗",
+        "pinned_tweet_id": "2058188566497493045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069980335128113152/BDqo9jSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 1152,
+          "like_count": 26096,
+          "listed_count": 5,
+          "media_count": 524,
+          "tweet_count": 2125
+        },
+        "url": "https://t.co/9a4AgdadOU",
+        "username": "AotraWong",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T01:12:37.000Z",
+        "description": "可以叫我婉星\n08 | mtf |🍥since25.3.5 \n珠江一中|傻福选科| IMSB |中中混血 |\n🍻德智体美劳 想吃麦当劳🍔\n🥰@shu_hao14180",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "shu_hao14180"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v50to.me",
+                "end": 23,
+                "expanded_url": "http://v50to.me",
+                "start": 0,
+                "url": "https://t.co/uY9ukwfRFh"
+              }
+            ]
+          }
+        },
+        "id": "1393373599579267073",
+        "location": "127.0.0.1",
+        "name": "好想睡够24小时啊啊啊啊啊🍥",
+        "pinned_tweet_id": "1921106684644110662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020110133645529088/GWrkohlM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 321,
+          "like_count": 1464,
+          "listed_count": 1,
+          "media_count": 312,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/uY9ukwfRFh",
+        "username": "Ilikesleepinghh",
+        "verified": false
+      }
+    ]
+  }
+}

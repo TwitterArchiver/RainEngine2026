@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077352385958342656",
+    "conversation_id": "2080582902900027899",
+    "created_at": "2026-07-24T09:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080582902900027899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1855493934371549184",
+          "start": 3,
+          "username": "LimneAe3800y"
+        },
+        {
+          "end": 67,
+          "id": "2077352385958342656",
+          "start": 52,
+          "username": "RainEngine2026"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You can view and join @RainEngine_Official right away.",
+          "display_url": "t.me/RainEngine_Off…",
+          "end": 41,
+          "expanded_url": "https://t.me/RainEngine_Official",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2080582638906322944/796OeEOw?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2080582638906322944/796OeEOw?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 18,
+          "status": 200,
+          "title": "雨擎里的宇宙",
+          "unwound_url": "https://t.me/RainEngine_Official",
+          "url": "https://t.co/JKSP1mrNUE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080582902900027899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080582636221890582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LimneAe3800y: https://t.co/JKSP1mrNUE\n我备注一下，谢谢…\n@RainEngine2026"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077352385958342656",
+        "conversation_id": "2080582902900027899",
+        "created_at": "2026-07-24T09:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080582902900027899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1855493934371549184",
+              "start": 3,
+              "username": "LimneAe3800y"
+            },
+            {
+              "end": 67,
+              "id": "2077352385958342656",
+              "start": 52,
+              "username": "RainEngine2026"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You can view and join @RainEngine_Official right away.",
+              "display_url": "t.me/RainEngine_Off…",
+              "end": 41,
+              "expanded_url": "https://t.me/RainEngine_Official",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2080582638906322944/796OeEOw?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080582638906322944/796OeEOw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 18,
+              "status": 200,
+              "title": "雨擎里的宇宙",
+              "unwound_url": "https://t.me/RainEngine_Official",
+              "url": "https://t.co/JKSP1mrNUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080582902900027899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080582636221890582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LimneAe3800y: https://t.co/JKSP1mrNUE\n我备注一下，谢谢…\n@RainEngine2026"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855493934371549184",
+        "conversation_id": "2080582636221890582",
+        "created_at": "2026-07-24T09:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080582636221890582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 49,
+              "id": "2077352385958342656",
+              "start": 34,
+              "username": "RainEngine2026"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You can view and join @RainEngine_Official right away.",
+              "display_url": "t.me/RainEngine_Off…",
+              "end": 23,
+              "expanded_url": "https://t.me/RainEngine_Official",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2080582638906322944/796OeEOw?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080582638906322944/796OeEOw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "雨擎里的宇宙",
+              "unwound_url": "https://t.me/RainEngine_Official",
+              "url": "https://t.co/JKSP1mrNUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080582636221890582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JKSP1mrNUE\n我备注一下，谢谢…\n@RainEngine2026"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "",
+        "id": "2077352385958342656",
+        "name": "雨晴今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077357822191575040/Ex8xVx_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 62,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T06:13:54.000Z",
+        "description": "社交萌新，还请大家多照顾……\n喜欢听电子音乐，喜好畅想未来和宇宙星空，想与合得来的伙伴互Follow交朋友″(⑉°з°)-♡\n亲密朋友 丨@hoshinofujivy \n邮箱📮：limncheetein.kirapusoq86@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "hoshinofujivy"
+              }
+            ]
+          }
+        },
+        "id": "1855493934371549184",
+        "location": "仙英座北极星✧",
+        "name": "～Hoyitaze limne Azu.（_Official）",
+        "pinned_tweet_id": "2080322151396049190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038264538207072256/c29B4Igc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 93,
+          "like_count": 3021,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1480
+        },
+        "url": "",
+        "username": "LimneAe3800y",
+        "verified": false
+      }
+    ]
+  }
+}

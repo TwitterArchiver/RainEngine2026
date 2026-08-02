@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077352385958342656",
+    "conversation_id": "2081820437013733673",
+    "created_at": "2026-07-27T19:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T20:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081827789339308164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1513190881540841475",
+          "start": 0,
+          "username": "Gosolo22411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081827789339308164",
+    "in_reply_to_user_id": "1513190881540841475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081827348698329490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gosolo22411 赚我流量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077352385958342656",
+        "conversation_id": "2081820437013733673",
+        "created_at": "2026-07-27T19:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081827789339308164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1513190881540841475",
+              "start": 0,
+              "username": "Gosolo22411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081827789339308164",
+        "in_reply_to_user_id": "1513190881540841475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081827348698329490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gosolo22411 赚我流量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513190881540841475",
+        "conversation_id": "2081820437013733673",
+        "created_at": "2026-07-27T19:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081827348698329490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2077352385958342656",
+              "start": 0,
+              "username": "RainEngine2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081827348698329490",
+        "in_reply_to_user_id": "2077352385958342656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081820437013733673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2026 这个神经病怎么天天缠着你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 109,
+          "like_count": 754,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T16:23:45.000Z",
+        "description": "日已夕兮予心忧悲，月已驰兮何不渡为？",
+        "id": "1513190881540841475",
+        "location": "HKSAR, PRC",
+        "name": "eleM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077307808194899968/UUUTu3nB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 278,
+          "like_count": 28494,
+          "listed_count": 3,
+          "media_count": 372,
+          "tweet_count": 4101
+        },
+        "url": "",
+        "username": "Gosolo22411",
+        "verified": false
+      }
+    ]
+  }
+}

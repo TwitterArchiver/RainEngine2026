@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1837843674283294720",
+    "conversation_id": "2075413577528451208",
+    "created_at": "2026-07-10T03:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075418273928401238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1796031897753276417",
+          "start": 0,
+          "username": "xiaoduoya_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075418273928401238",
+    "in_reply_to_user_id": "1796031897753276417",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075418151479816320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoduoya_ 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837843674283294720",
+        "conversation_id": "2075413577528451208",
+        "created_at": "2026-07-10T03:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075418273928401238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796031897753276417",
+              "start": 0,
+              "username": "xiaoduoya_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075418273928401238",
+        "in_reply_to_user_id": "1796031897753276417",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075418151479816320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoduoya_ 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796031897753276417",
+        "conversation_id": "2075413577528451208",
+        "created_at": "2026-07-10T03:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075418151479816320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1837843674283294720",
+              "start": 0,
+              "username": "RainEngine2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075418151479816320",
+        "in_reply_to_user_id": "1837843674283294720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075413577528451208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2026 晴总是不是被shadowban了\n\n看不到回fo信息😯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/DZNsvIwmEa"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 120,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/DZNsvIwmEa",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T04:12:43.000Z",
+        "description": "嗨，我是小多。\n🤔16岁 热爱AI&Web3的高中生 独立Vibe Coding开发者 兴趣使然\n⭐️教程+日常分享 把推特当第二个朋友圈\n接触币圈是一个特殊的机遇，等我有时间再慢慢道来......\n\n所有推文都不构成投资建议 DYOR\n有任何问题欢迎TG私信我🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/heyxiaoduo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/heyxiaoduo",
+                "start": 0,
+                "url": "https://t.co/VHEVeomtMg"
+              }
+            ]
+          }
+        },
+        "id": "1796031897753276417",
+        "location": "Web3&AI | 商务合作·平台返佣·个人项目 →",
+        "name": "HeyXiaoDuo_",
+        "pinned_tweet_id": "2045072469929959587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796031965281517568/jjRXAPI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 453,
+          "like_count": 3355,
+          "listed_count": 3,
+          "media_count": 345,
+          "tweet_count": 1206
+        },
+        "url": "https://t.co/VHEVeomtMg",
+        "username": "xiaoduoya_",
+        "verified": true
+      }
+    ]
+  }
+}

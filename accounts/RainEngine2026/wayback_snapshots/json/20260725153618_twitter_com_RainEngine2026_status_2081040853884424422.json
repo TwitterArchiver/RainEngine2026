@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077352385958342656",
+    "conversation_id": "2080817925859221963",
+    "created_at": "2026-07-25T15:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081040853884424422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1576625606032334848",
+          "start": 0,
+          "username": "E1YI2"
+        },
+        {
+          "end": 23,
+          "id": "1511574513967722505",
+          "start": 7,
+          "username": "_Genshin_Ganyu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081040853884424422",
+    "in_reply_to_user_id": "1576625606032334848",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081040219101642864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@E1YI2 @_Genshin_Ganyu_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077352385958342656",
+        "conversation_id": "2080817925859221963",
+        "created_at": "2026-07-25T15:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081040853884424422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1576625606032334848",
+              "start": 0,
+              "username": "E1YI2"
+            },
+            {
+              "end": 23,
+              "id": "1511574513967722505",
+              "start": 7,
+              "username": "_Genshin_Ganyu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081040853884424422",
+        "in_reply_to_user_id": "1576625606032334848",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081040219101642864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@E1YI2 @_Genshin_Ganyu_"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576625606032334848",
+        "conversation_id": "2080817925859221963",
+        "created_at": "2026-07-25T15:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081040219101642864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2077352385958342656",
+              "start": 0,
+              "username": "RainEngine2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081040219101642864",
+        "in_reply_to_user_id": "2077352385958342656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080817925859221963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2026 中间这个coser是谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Offiaicl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 89,
+          "like_count": 566,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T17:30:20.000Z",
+        "description": "相信即存在 存在即合理",
+        "id": "1576625606032334848",
+        "name": "纪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078882401728733184/rckZ3Dar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 151,
+          "like_count": 1098,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 562
+        },
+        "url": "",
+        "username": "E1YI2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T05:20:31.000Z",
+        "description": "青丝白发一瞬间，年华老去向谁言。春风若有怜花意，可否许我再少年？\n椰羊老师 | 业余电台BD7PVQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ganyu.rocks",
+                "end": 23,
+                "expanded_url": "http://ganyu.rocks",
+                "start": 0,
+                "url": "https://t.co/aXUuApyKHX"
+              }
+            ]
+          }
+        },
+        "id": "1511574513967722505",
+        "location": "我於萬物之中",
+        "name": "研究员王小美🥥🐑",
+        "pinned_tweet_id": "2078151776960950317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045557018841546752/88LRmzDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4146,
+          "following_count": 1286,
+          "like_count": 4203,
+          "listed_count": 8,
+          "media_count": 398,
+          "tweet_count": 2787
+        },
+        "url": "https://t.co/aXUuApyKHX",
+        "username": "_Genshin_Ganyu_",
+        "verified": true
+      }
+    ]
+  }
+}

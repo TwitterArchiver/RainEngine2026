@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079862189327007744"
+      ]
+    },
+    "author_id": "2077352385958342656",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079862207794262117",
+    "created_at": "2026-07-22T09:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T10:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079862207794262117"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FfItF6lSqG",
+          "end": 39,
+          "expanded_url": "https://x.com/RainEngine2026/status/2079862207794262117/photo/1",
+          "media_key": "3_2079862189327007744",
+          "start": 16,
+          "url": "https://t.co/FfItF6lSqG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079862207794262117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜报：我终于有steam帐号了 https://t.co/FfItF6lSqG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2079862189327007744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0npECaQAAm9lH.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079862189327007744"
+          ]
+        },
+        "author_id": "2077352385958342656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079862207794262117",
+        "created_at": "2026-07-22T09:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079862207794262117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FfItF6lSqG",
+              "end": 39,
+              "expanded_url": "https://x.com/RainEngine2026/status/2079862207794262117/photo/1",
+              "media_key": "3_2079862189327007744",
+              "start": 16,
+              "url": "https://t.co/FfItF6lSqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079862207794262117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜报：我终于有steam帐号了 https://t.co/FfItF6lSqG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "",
+        "id": "2077352385958342656",
+        "name": "雨晴今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077357822191575040/Ex8xVx_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 28,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      }
+    ]
+  }
+}

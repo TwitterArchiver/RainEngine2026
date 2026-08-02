@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083564323889360896"
+      ]
+    },
+    "author_id": "2077352385958342656",
+    "conversation_id": "2083564326926082076",
+    "created_at": "2026-08-01T14:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083564326926082076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B96h9mWYWp",
+          "end": 29,
+          "expanded_url": "https://x.com/RainEngine2026/status/2083564326926082076/photo/1",
+          "media_key": "3_2083564323889360896",
+          "start": 6,
+          "url": "https://t.co/B96h9mWYWp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083564326926082076",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新logo https://t.co/B96h9mWYWp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2083564323889360896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpOtqAaMAAJcTI.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083564323889360896"
+          ]
+        },
+        "author_id": "2077352385958342656",
+        "conversation_id": "2083564326926082076",
+        "created_at": "2026-08-01T14:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083564326926082076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B96h9mWYWp",
+              "end": 29,
+              "expanded_url": "https://x.com/RainEngine2026/status/2083564326926082076/photo/1",
+              "media_key": "3_2083564323889360896",
+              "start": 6,
+              "url": "https://t.co/B96h9mWYWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083564326926082076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新logo https://t.co/B96h9mWYWp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer /Android ROM Developer /Unity3D Beginner / 19y.o./ GMT+8 / ZH-CN",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 142,
+          "like_count": 1094,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 217
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": true
+      }
+    ]
+  }
+}

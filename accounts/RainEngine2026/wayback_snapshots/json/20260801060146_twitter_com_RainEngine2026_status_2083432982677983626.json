@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077352385958342656",
+    "conversation_id": "2083206235617456461",
+    "created_at": "2026-08-01T06:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083432982677983626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1589484921822781443",
+          "start": 0,
+          "username": "ObjectShadow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083432982677983626",
+    "in_reply_to_user_id": "1589484921822781443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083363789429510551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ObjectShadow 广式的哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077352385958342656",
+        "conversation_id": "2083206235617456461",
+        "created_at": "2026-08-01T06:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083432982677983626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589484921822781443",
+              "start": 0,
+              "username": "ObjectShadow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083432982677983626",
+        "in_reply_to_user_id": "1589484921822781443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083363789429510551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ObjectShadow 广式的哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589484921822781443",
+        "conversation_id": "2083206235617456461",
+        "created_at": "2026-08-01T01:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083363789429510551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2077352385958342656",
+              "start": 0,
+              "username": "RainEngine2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083363789429510551",
+        "in_reply_to_user_id": "2077352385958342656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083206235617456461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2026 一个无聊的想法：\n这是广式肠粉还是潮州式的🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer /Android ROM Developer /Unity3D Beginner / 19y.o./ GMT+8 / ZH-CN",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 138,
+          "like_count": 1035,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 203
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T05:08:42.000Z",
+        "description": "🏳‍⚧是小女孩还是猫猫? | 17 y.o. | 🚑 HS Stu | Blog https://t.co/KHVZ0u9iFc | 🩷 @Qinnoii 🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 69,
+                "username": "Qinnoii"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "objshadow.is-a.dev",
+                "end": 64,
+                "expanded_url": "http://objshadow.is-a.dev",
+                "start": 41,
+                "url": "https://t.co/KHVZ0u9iFc"
+              }
+            ]
+          }
+        },
+        "id": "1589484921822781443",
+        "location": "0xdeadbeef",
+        "name": "𝕆𝕓𝕛 𝕊𝕙𝕒𝕕𝕠𝕨🎐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589485031143211008/kIUjfSB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 1225,
+          "like_count": 11645,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 3191
+        },
+        "url": "",
+        "username": "ObjectShadow",
+        "verified": false
+      }
+    ]
+  }
+}

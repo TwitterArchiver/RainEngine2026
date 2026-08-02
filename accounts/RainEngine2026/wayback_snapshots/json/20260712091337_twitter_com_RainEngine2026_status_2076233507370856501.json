@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072676491708801024"
+      ],
+      "media_source_tweet_id": [
+        "2072676499485065263"
+      ]
+    },
+    "author_id": "1837843674283294720",
+    "conversation_id": "2076233507370856501",
+    "created_at": "2026-07-12T09:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T10:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076233507370856501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1954874019947384832",
+          "start": 3,
+          "username": "CuteCatGYH"
+        },
+        {
+          "end": 61,
+          "id": "1810873766119100416",
+          "start": 46,
+          "username": "RainEngine2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5QaxXqi81K",
+          "end": 85,
+          "expanded_url": "https://x.com/CuteCatGYH/status/2072676499485065263/photo/1",
+          "media_key": "3_2072676491708801024",
+          "start": 62,
+          "url": "https://t.co/5QaxXqi81K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076233507370856501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072676499485065263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuteCatGYH: 今天是我和雨晴姐姐❤️共同 HRT 的第 300 天啦\n爱你@RainEngine2024 https://t.co/5QaxXqi81K"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [RainEngine2024].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "RainEngine2024",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "RainEngine2024"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1284,
+        "media_key": "3_2072676491708801024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOgSaabIAAh-3g.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072676491708801024"
+          ],
+          "media_source_tweet_id": [
+            "2072676499485065263"
+          ]
+        },
+        "author_id": "1837843674283294720",
+        "conversation_id": "2076233507370856501",
+        "created_at": "2026-07-12T09:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076233507370856501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1954874019947384832",
+              "start": 3,
+              "username": "CuteCatGYH"
+            },
+            {
+              "end": 61,
+              "id": "1810873766119100416",
+              "start": 46,
+              "username": "RainEngine2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5QaxXqi81K",
+              "end": 85,
+              "expanded_url": "https://x.com/CuteCatGYH/status/2072676499485065263/photo/1",
+              "media_key": "3_2072676491708801024",
+              "start": 62,
+              "url": "https://t.co/5QaxXqi81K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076233507370856501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072676499485065263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CuteCatGYH: 今天是我和雨晴姐姐❤️共同 HRT 的第 300 天啦\n爱你@RainEngine2024 https://t.co/5QaxXqi81K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072676491708801024"
+          ]
+        },
+        "author_id": "1954874019947384832",
+        "conversation_id": "2072676499485065263",
+        "created_at": "2026-07-02T13:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072676499485065263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "1810873766119100416",
+              "start": 30,
+              "username": "RainEngine2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5QaxXqi81K",
+              "end": 69,
+              "expanded_url": "https://x.com/CuteCatGYH/status/2072676499485065263/photo/1",
+              "media_key": "3_2072676491708801024",
+              "start": 46,
+              "url": "https://t.co/5QaxXqi81K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072676499485065263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1913,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我和雨晴姐姐❤️共同 HRT 的第 300 天啦\n爱你@RainEngine2024 https://t.co/5QaxXqi81K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design / 🥰 @AotraWong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "AotraWong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2026",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2026",
+                "start": 0,
+                "url": "https://t.co/7JvZdxAqN1"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 154,
+          "like_count": 725,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 139
+        },
+        "url": "https://t.co/7JvZdxAqN1",
+        "username": "RainEngine2026",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T11:54:33.000Z",
+        "description": "08 年小朋友 | 失业ing | 躺平 | 懒癌晚期患者 | 爱好航拍摄影和睡觉 | 喜欢做任何自己喜欢的事 | 住在青青的岛 |🏳️‍⚧️HRT:2025.09.05| 同类互 fo| 中度玉玉\n小朋友：@meow_huan 好朋友：@hry_xsu\n@RainEngine2024 前女友（？\n爱你们喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "meow_huan"
+              },
+              {
+                "end": 127,
+                "start": 119,
+                "username": "hry_xsu"
+              },
+              {
+                "end": 143,
+                "start": 128,
+                "username": "RainEngine2024"
+              }
+            ]
+          }
+        },
+        "id": "1954874019947384832",
+        "location": "附近 2000km 内",
+        "name": "憧憬成为魔法少女🍥",
+        "pinned_tweet_id": "2055245713299349599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042964461594775552/XOsYSZFR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 67,
+          "like_count": 3310,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 703
+        },
+        "url": "",
+        "username": "CuteCatGYH",
+        "verified": true
+      }
+    ]
+  }
+}
