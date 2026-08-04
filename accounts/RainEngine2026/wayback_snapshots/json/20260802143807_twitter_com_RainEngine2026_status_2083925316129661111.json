@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077352385958342656",
+    "conversation_id": "2083925316129661111",
+    "created_at": "2026-08-02T14:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083925316129661111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Realhoshinofuj…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Realhoshinofuji/status/2083899541259251918",
+          "start": 15,
+          "url": "https://t.co/KcqrPkRjYl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083925316129661111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083899541259251918",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "星野藤老师你怎么把我忘了😭😭 https://t.co/KcqrPkRjYl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 784,
+        "media_key": "3_2083899533021609984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOt_lZVbAAATRiW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077352385958342656",
+        "conversation_id": "2083925316129661111",
+        "created_at": "2026-08-02T14:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083925316129661111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Realhoshinofuj…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Realhoshinofuji/status/2083899541259251918",
+              "start": 15,
+              "url": "https://t.co/KcqrPkRjYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083925316129661111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083899541259251918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "星野藤老师你怎么把我忘了😭😭 https://t.co/KcqrPkRjYl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083899533021609984"
+          ]
+        },
+        "author_id": "2082080789119016961",
+        "conversation_id": "2083899541259251918",
+        "created_at": "2026-08-02T12:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083899541259251918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dilC44M8mk",
+              "end": 62,
+              "expanded_url": "https://x.com/Realhoshinofuji/status/2083899541259251918/photo/1",
+              "media_key": "3_2083899533021609984",
+              "start": 39,
+              "url": "https://t.co/dilC44M8mk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083899541259251918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 385,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "合影中大家的现状\n\n短短一个月，真的沧桑呢\n\n小藤记得还有一张，那张的人更多 https://t.co/dilC44M8mk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer /Android ROM Developer /Unity3D Beginner / 19y.o./ GMT+8 / ZH-CN",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 156,
+          "like_count": 1210,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜Peace&Love🇺🇳｜pixiv illustrator | AIart | 旧友寻回中｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/nkPOtCbKri"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2082097033486508340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082081722901188608/L8AzdfTr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 905,
+          "like_count": 1087,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 429
+        },
+        "url": "https://t.co/nkPOtCbKri",
+        "username": "Realhoshinofuji",
+        "verified": true
+      }
+    ]
+  }
+}

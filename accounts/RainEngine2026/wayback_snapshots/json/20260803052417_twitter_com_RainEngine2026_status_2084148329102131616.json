@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077352385958342656",
+    "conversation_id": "2083865956636651873",
+    "created_at": "2026-08-03T05:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T06:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084148329102131616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053864757329817600",
+          "start": 0,
+          "username": "today_is_foggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084148329102131616",
+    "in_reply_to_user_id": "2053864757329817600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084105120028246371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@today_is_foggy 秋葵好吃😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077352385958342656",
+        "conversation_id": "2083865956636651873",
+        "created_at": "2026-08-03T05:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084148329102131616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053864757329817600",
+              "start": 0,
+              "username": "today_is_foggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084148329102131616",
+        "in_reply_to_user_id": "2053864757329817600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084105120028246371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@today_is_foggy 秋葵好吃😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053864757329817600",
+        "conversation_id": "2083865956636651873",
+        "created_at": "2026-08-03T02:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084105120028246371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2077352385958342656",
+              "start": 0,
+              "username": "RainEngine2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084105120028246371",
+        "in_reply_to_user_id": "2077352385958342656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083865956636651873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2026 感觉秋葵有点怪怪的，但是好香😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer /Android ROM Developer /Unity3D Beginner / 19y.o./ GMT+8 / ZH-CN",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 162,
+          "like_count": 1327,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 241
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-11T15:48:30.000Z",
+        "description": "这里是大雾！可以叫咱大雾ww，因为无糖所以还是暂时自称xnn吧，二次元，笨蛋，无糖，不od、割手，什么都会一点但什么都做不好，只要接纳咱那一定会有反馈的说ww接触过的东西有好多，但都很入门...航空航天 时事政治 摄影 化妆 化学 锻炼健身 番剧游戏 还自己学过一点c和Python...希望有人可以来找咱聊天什么的。",
+        "id": "2053864757329817600",
+        "location": "成都  山东上学",
+        "name": "今天是大雾！",
+        "pinned_tweet_id": "2083085365032735192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073740142737846272/5wS-JDPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 105,
+          "like_count": 1552,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 984
+        },
+        "url": "",
+        "username": "today_is_foggy",
+        "verified": false
+      }
+    ]
+  }
+}

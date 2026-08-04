@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077352385958342656",
+    "conversation_id": "2083880811355635774",
+    "created_at": "2026-08-02T11:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083880811355635774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/a2517337359/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/a2517337359/status/2083737182854955232",
+          "start": 9,
+          "url": "https://t.co/BdDHpvFgfS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083880811355635774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083737182854955232",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想被这样弄🤤🥵🥵 https://t.co/BdDHpvFgfS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1202,
+        "media_key": "3_2083737172436287488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrr6xBXgAAjVoH.jpg",
+        "width": 1202
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077352385958342656",
+        "conversation_id": "2083880811355635774",
+        "created_at": "2026-08-02T11:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083880811355635774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a2517337359/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/a2517337359/status/2083737182854955232",
+              "start": 9,
+              "url": "https://t.co/BdDHpvFgfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083880811355635774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083737182854955232",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想被这样弄🤤🥵🥵 https://t.co/BdDHpvFgfS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083737172436287488"
+          ]
+        },
+        "author_id": "1591959828573757440",
+        "conversation_id": "2083737182854955232",
+        "created_at": "2026-08-02T02:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083737182854955232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCZXcCe5HM",
+              "end": 32,
+              "expanded_url": "https://x.com/a2517337359/status/2083737182854955232/photo/1",
+              "media_key": "3_2083737172436287488",
+              "start": 9,
+              "url": "https://t.co/gCZXcCe5HM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083737182854955232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 553,
+          "impression_count": 45574,
+          "like_count": 3203,
+          "quote_count": 9,
+          "reply_count": 44,
+          "retweet_count": 130
+        },
+        "reply_settings": "everyone",
+        "text": "想被这样弄🤤🥵🥵 https://t.co/gCZXcCe5HM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer /Android ROM Developer /Unity3D Beginner / 19y.o./ GMT+8 / ZH-CN",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 154,
+          "like_count": 1191,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-14T01:03:22.000Z",
+        "description": "04年小朋友😚？｜🏳️‍⚧️HRT：2026.3.17|INFP | 嵌入式开发｜喜欢可爱的东西｜精神状态超好｜想交更多的朋友！\n最爱的🍑：@xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "xiey57828"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mizuki30870",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mizuki30870",
+                "start": 0,
+                "url": "https://t.co/dKXzgYeQRH"
+              }
+            ]
+          }
+        },
+        "id": "1591959828573757440",
+        "location": "1.2km",
+        "name": "水希ちゃん🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081195740932825088/jl5H_BPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 225,
+          "like_count": 347,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/dKXzgYeQRH",
+        "username": "a2517337359",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083859132919279616"
+      ]
+    },
+    "author_id": "2077352385958342656",
+    "conversation_id": "2083859136555749836",
+    "created_at": "2026-08-02T10:15:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083859136555749836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WKugbOQ1e5",
+          "end": 83,
+          "expanded_url": "https://x.com/RainEngine2026/status/2083859136555749836/photo/1",
+          "media_key": "3_2083859132919279616",
+          "start": 60,
+          "url": "https://t.co/WKugbOQ1e5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083859136555749836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "8月1日后，似乎线下开卡套餐都改掉了，我只能开出一个月55g的流量套餐，在此之前，广东移动线下是可以开到260g套餐的 https://t.co/WKugbOQ1e5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083859132919279616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOta1zObcAAav37.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083859132919279616"
+          ]
+        },
+        "author_id": "2077352385958342656",
+        "conversation_id": "2083859136555749836",
+        "created_at": "2026-08-02T10:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083859136555749836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKugbOQ1e5",
+              "end": 83,
+              "expanded_url": "https://x.com/RainEngine2026/status/2083859136555749836/photo/1",
+              "media_key": "3_2083859132919279616",
+              "start": 60,
+              "url": "https://t.co/WKugbOQ1e5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083859136555749836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "8月1日后，似乎线下开卡套餐都改掉了，我只能开出一个月55g的流量套餐，在此之前，广东移动线下是可以开到260g套餐的 https://t.co/WKugbOQ1e5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer /Android ROM Developer /Unity3D Beginner / 19y.o./ GMT+8 / ZH-CN",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 149,
+          "like_count": 1158,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 222
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": true
+      }
+    ]
+  }
+}
