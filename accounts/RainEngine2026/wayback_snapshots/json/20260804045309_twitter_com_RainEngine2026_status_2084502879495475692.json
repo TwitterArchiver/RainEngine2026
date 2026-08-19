@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2077352385958342656",
+    "conversation_id": "2084392489658753048",
+    "created_at": "2026-08-04T04:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084502879495475692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759787246587379712",
+          "start": 0,
+          "username": "Artoria040130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084502879495475692",
+    "in_reply_to_user_id": "1759787246587379712",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084392489658753048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Artoria040130 hyw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077352385958342656",
+        "conversation_id": "2084392489658753048",
+        "created_at": "2026-08-04T04:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084502879495475692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "Artoria040130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084502879495475692",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084392489658753048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artoria040130 hyw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759787246587379712",
+        "conversation_id": "2084392489658753048",
+        "created_at": "2026-08-03T21:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T22:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084392489658753048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2083515921075978664",
+              "start": 6,
+              "url": "https://t.co/BGy4iUTnHS"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2084392489658753048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083515921075978664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们怀念她 https://t.co/BGy4iUTnHS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer /Android ROM Developer /Unity3D Beginner / 19y.o./ GMT+8 / ZH-CN",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 166,
+          "like_count": 1368,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "🇩🇪 Aus Deutschland\nFreiheit, Gedanken und ein bisschen Magie.\nAnime, Fate & Saber-Fan.\nIch gehe meinen eigenen Weg",
+        "id": "1759787246587379712",
+        "location": "Berlin, Germany",
+        "name": "Adrian Elisabeth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083693987932852224/CAM6IWJs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2525,
+          "following_count": 1590,
+          "like_count": 6299,
+          "listed_count": 10,
+          "media_count": 923,
+          "tweet_count": 3196
+        },
+        "url": "",
+        "username": "Artoria040130",
+        "verified": false
+      }
+    ]
+  }
+}
